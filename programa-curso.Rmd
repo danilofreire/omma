@@ -40,7 +40,7 @@ A matéria almeja um aprofundamento sobre o conceito de instituições, o papel 
 
 # Cronograma e Bibliografia
 
-Todas as referências de leitura estão disponíveis no [repositório do curso no GitHub](http://github.com/danilofreire/eei-omma-ufm). Recomenda-se que os alunos leiam os textos antes das sessões e que tragam pontos a serem discutidos com o tutor e demais colegas. A participação em classe é fundamental para que as aulas sejam dinâmicas e interessantes.
+Todas as referências de leitura estão disponíveis no [repositório do curso no GitHub](https://github.com/danilofreire/economia-politica-instituicoes-ufm). Recomenda-se que os alunos leiam os textos antes das sessões e que tragam pontos a serem discutidos com o tutor e demais colegas. A participação em classe é fundamental para que as aulas sejam dinâmicas e interessantes.
 
 ## Sessões 1 e 2: A Ordem Institucional (23/03)
 
