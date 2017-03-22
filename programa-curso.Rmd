@@ -48,8 +48,8 @@ Programa do curso. Introdução ao conceito de instituição dentro da economia 
 
 **Leituras**:
 
-- Norman Barry - The Tradition of Spontaneous Order
-- Geoffrey M. Hodgson - What Are Institutions?
+- Norman Barry - [The Tradition of Spontaneous Order](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-01-02/barry.pdf)
+- Geoffrey M. Hodgson - [What Are Institutions?](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-01-02/hodgson.pdf)
 
 ## Sessões 3 e 4: Diversidade Institucional I: Policentrismo (29/03)
 
@@ -57,19 +57,9 @@ Considerações acerca dos modelos de administração pública. Introdução aos
 
 **Leituras**:
 
-- Vincent Ostrom - The Intellectual Crisis in American Public Administration. Capítulo 1: The Crisis of Confidence e Capítulo 2: The Intellectual Mainstream in American Public Administration.
-- Vincent Ostrom - Polycentricity: The Structural Basis of Self-Governing Systems
-- Paul Dragos Aligica - Institutional Diversity and Political Economy: The Ostroms and Beyond. Capítulo 2: Institucionalism and Polycentricity.
-
-## Sessões 3 e 4: Diversidade Institucional I: Policentrismo (29/03)
-
-Considerações acerca dos modelos de administração pública. Introdução aos conceitos de mono e policentrismo institucional. Discussão sobre vantagens e desafios de arranjos policêntricos. Federalismo e multiplicidade de jurisdições.
-
-**Leituras**:
-
-- Vincent Ostrom - The Intellectual Crisis in American Public Administration. Capítulo 1: The Crisis of Confidence e Capítulo 2: The Intellectual Mainstream in American Public Administration.
-- Vincent Ostrom - Polycentricity: The Structural Basis of Self-Governing Systems
-- Paul Dragos Aligica - Institutional Diversity and Political Economy: The Ostroms and Beyond. Capítulo 2: Institucionalism and Polycentricity.
+- Vincent Ostrom - [The Intellectual Crisis in American Public Administration. Capítulo 1: The Crisis of Confidence](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-03-04/vicent-ostrom-01.pdf) e [Capítulo 2: The Intellectual Mainstream in American Public Administration](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-03-04/vincent-ostrom-02.pdf)
+- Vincent Ostrom - [Polycentricity: The Structural Basis of Self-Governing Systems](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-03-04/vincent-ostrom-03.pdf)
+- Paul Dragos Aligica - [Institutional Diversity and Political Economy: The Ostroms and Beyond. Capítulo 2: Institucionalism and Polycentricity](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-03-04/aligica.pdf)
 
 ## Sessões 5 e 6: Diversidade Institucional II: IAD Framework (05/04)
 
@@ -77,8 +67,8 @@ Considerações sobre o trabalho de Elinor Ostrom. Introdução ao Framework de 
 
 **Leituras**:
 
-- Elinor Ostrom - The Three Worlds of Action
-- Elinor Ostrom - An Agenda for the Study of Institutions
+- Elinor Ostrom - [The Three Worlds of Action](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-05-06/elinor-ostrom-01.pdf)
+- Elinor Ostrom - [An Agenda for the Study of Institutions](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-05-06/elinor-ostrom-02.pdf)
 
 ## Sessões 7 e 8: Instituições no Contractarianismo (19/04)
 
@@ -86,7 +76,7 @@ Como uma teoria institucional pode derivar autoridade e legitimidade a partir do
 
 **Leituras**:
 
-- James Buchanan & Geoffrey Brennan - The Reason of Rules: Constitutional Political Economy. Capítulos 2 a 5.
+- James Buchanan & Geoffrey Brennan - [The Reason of Rules: Constitutional Political Economy. Capítulos 2 a 5](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-07-08/buchanan-brennan.pdf)
 
 ## Sessões 9 e 10: Instituições no Ocidente, Jusnaturalismo e Utilitarismo (26/04)
 
@@ -94,8 +84,8 @@ A possibilidade de um sistema institucional dedutivo. A capacidade de derivar or
 
 **Leituras**:
 
-- Harold Berman - Law and Revolution (extratos)
-- David Gauthier - Morals by Agreement, Capítulo 1.
+- Harold Berman - [Law and Revolution (extratos)](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-09-10/berman.pdf)
+- David Gauthier - [Morals by Agreement, Capítulo 1](https://github.com/danilofreire/eei-omma-ufm/blob/master/sessoes-09-10/gauthier.pdf)
 
 ## Sessões 11 e 12: Instituições no Terceiro Mundo e o Caso Islâmico (03/05)
 
