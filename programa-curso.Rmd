@@ -1,0 +1,136 @@
+---
+output:
+  pdf_document:
+    keep_tex: true
+    fig_caption: yes
+    latex_engine: pdflatex
+    template: ~/Documents/GitHub/eei-omma-ufm/latex-programa.tex
+geometry: margin=1in
+
+title: "Economia Política e Instituições"
+author: Danilo Freire
+date: "Março-Maio de 2017"
+
+email: "danilofreire@gmail.com"
+web: "danilofreire.com"
+classroom: "Online"
+classhours: "12:30-15:20"
+officehours: "A qualquer hora"
+office: "Via e-mail"
+
+fontfamily: libertine
+fontsize: 12pt
+header-includes:
+   - \linespread{1.05}
+---
+
+# Descrição
+
+A matéria almeja um aprofundamento sobre o conceito de instituições, o papel que elas cumprem na coordenação social e o sentido em que conduzem os incentivos da conduta econômica. O curso terá 18 sessões, sempre às quartas-feira, exceto as duas primeiras sessões (quinta-feira). Lembrando que haverá um recesso durante a Semana Santa (10 a 14/04).
+
+# Objetivos
+
+- Entender o que são instituições e como normas permitem a coordenação de ações individuais
+- Trabalhar com facilidade os conceitos políticos e econômicos necessários para o estudo do papel das instituições
+- Adquirir uma visão de conjunto desta área da economia política
+- Conhecer e aplicar os conceitos de normas, incentivos e mudanças institucionais que fundamentam a relação entre mercado e estado
+- Familiarizar-se com a história intelectual das instituições político-econômicas e como a área se relaciona com outras disciplinas
+
+\newpage
+
+# Cronograma e Bibliografia
+
+Todas as referências de leitura estão disponíveis no [repositório do curso no GitHub](http://github.com/danilofreire/eei-omma-ufm). Recomenda-se que os alunos leiam os textos antes das sessões e que tragam pontos a serem discutidos com o tutor e demais colegas. A participação em classe é fundamental para que as aulas sejam dinâmicas e interessantes.
+
+## Sessões 1 e 2: A Ordem Institucional (23/03)
+
+Programa do curso. Introdução ao conceito de instituição dentro da economia política. Considerações sobre as origens evolutivas das instituições como resultado de ações humanas propositivas, mas não do desígnio humano. Apanhado da história intelectual de instituições dentro do conceito de ordem.
+
+**Leituras**:
+
+- Norman Barry - The Tradition of Spontaneous Order
+- Geoffrey M. Hodgson - What Are Institutions?
+
+## Sessões 3 e 4: Diversidade Institucional I: Policentrismo (29/03)
+
+Considerações acerca dos modelos de administração pública. Introdução aos conceitos de mono e policentrismo institucional. Discussão sobre vantagens e desafios de arranjos policêntricos. Federalismo e multiplicidade de jurisdições.
+
+**Leituras**:
+
+- Vincent Ostrom - The Intellectual Crisis in American Public Administration. Capítulo 1: The Crisis of Confidence e Capítulo 2: The Intellectual Mainstream in American Public Administration.
+- Vincent Ostrom - Polycentricity: The Structural Basis of Self-Governing Systems
+- Paul Dragos Aligica - Institutional Diversity and Political Economy: The Ostroms and Beyond. Capítulo 2: Institucionalism and Polycentricity.
+
+## Sessões 3 e 4: Diversidade Institucional I: Policentrismo (29/03)
+
+Considerações acerca dos modelos de administração pública. Introdução aos conceitos de mono e policentrismo institucional. Discussão sobre vantagens e desafios de arranjos policêntricos. Federalismo e multiplicidade de jurisdições.
+
+**Leituras**:
+
+- Vincent Ostrom - The Intellectual Crisis in American Public Administration. Capítulo 1: The Crisis of Confidence e Capítulo 2: The Intellectual Mainstream in American Public Administration.
+- Vincent Ostrom - Polycentricity: The Structural Basis of Self-Governing Systems
+- Paul Dragos Aligica - Institutional Diversity and Political Economy: The Ostroms and Beyond. Capítulo 2: Institucionalism and Polycentricity.
+
+## Sessões 5 e 6: Diversidade Institucional II: IAD Framework (05/04)
+
+Considerações sobre o trabalho de Elinor Ostrom. Introdução ao Framework de Análise e Desenvolvimento Institutional. Aplicações teóricas e práticas.
+
+**Leituras**:
+
+- Elinor Ostrom - The Three Worlds of Action
+- Elinor Ostrom - An Agenda for the Study of Institutions
+
+## Sessões 7 e 8: Instituições no Contractarianismo (19/04)
+
+Como uma teoria institucional pode derivar autoridade e legitimidade a partir do consentimento dos governados. A forma e o conteúdo do consentimento e a ideia de contrato e de acordos mutuamente benéficos. A origem da força normativa e da possibilidade de reconhecimento e execução de instituições. A possibilidade de se modelar o comportamento econômico. A aplicação de modelos econômicos na interpretação institucional.
+
+**Leituras**:
+
+- James Buchanan & Geoffrey Brennan - The Reason of Rules: Constitutional Political Economy. Capítulos 2 a 5.
+
+## Sessões 9 e 10: Instituições no Ocidente, Jusnaturalismo e Utilitarismo (26/04)
+
+A possibilidade de um sistema institucional dedutivo. A capacidade de derivar ordem normativa da razão humana e do princípio da utilidade. O direito positivo como construção verbal a partir da convergência de interesses humanos. Uma breve história das origens concretas do estabelecimento institucional no ocidente.
+
+**Leituras**:
+
+- Harold Berman - Law and Revolution (extratos)
+- David Gauthier - Morals by Agreement, Capítulo 1.
+
+## Sessões 11 e 12: Instituições no Terceiro Mundo e o Caso Islâmico (03/05)
+
+Relação entre a teoria do capital e a teoria institucional. O papel das instituições no desenvolvimento econômico histórico. Como ocorre a destruição criadora em sociedades em desenvolvimento e de que maneira a coordenação econômica possibilitada pelas instituições fortalece ou previne o crescimento econômico. Estudo da emergência de instituições econômicas no mundo islâmico e seus efeitos no desenvolvimento regional.
+
+**Leituras**:
+
+- Hernando de Soto - O Mistério do Capital (Capítulos 1-3)
+- Timur Kuran - The Puzzle of the Middle East's Economic Underdevelopment
+- Timur Kuran - The Economic Impact of Islamism
+
+## Sessões 13 e 14: O Desenho das Instituições (10/05)
+
+Bens públicos e redistribuição econômica. A motivação de governantes e governantes na construção institucional. Agregado e distribuição de preferências. A possibilidade de se planejar coordenação econômica a partir de um desenho institucional. A base institucional das regulações econômicas. Comparação entre regulações privadas e econômicas. Aplicação da racionalidade econômica na aplicado de políticas públicas.
+
+**Leituras**:
+
+- Anthony Ogus - Economics and the Design of Regulatory Law (Capítulo 5)
+- Mancur Olson - Dictatorship, Democracy, and Development
+
+## Sessões 15 e 16: Instituições Além do Estado I: Comércio (17/05)
+
+Como instituições produzidos de forma privada e regulamentos econômicos privados podem ser exequíveis e eficazes. Casos históricos de instituições de governança privada demonstrando sua emergência e explicando seu funcionamento.
+
+**Leituras**:
+
+- Edward Stringham - The Extralegal Development of Securities Trading in seventeenth-century Amsterdam
+- Edward Stringham - The Alternative of Private Reguation: The London Stock Exchange's Alternative Investment Market as a Model
+
+## Sessões 17 e 18: Instituições Além do Estado II: Organizações Ilegais (24/05)
+
+Como instituições produzidos de forma privada e regulamentos econômicos privados podem ser exequíveis e eficazes. Casos históricos de instituições de governança privada demonstrando sua emergência e explicando seu funcionamento.
+
+**Leituras**:
+
+- David Skarbek - Covenants without the Sword? Comparing Prison Self-Governance
+Globally
+- Danilo Freire - Beasts of Prey or Rational Animals? Private Governance in Brazil's Jogo do Bicho
