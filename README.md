@@ -1,4 +1,4 @@
-# Economia Política e Instituições -- OMMA/UFM
+# Economia Política e Instituições - OMMA/UFM
 ## Danilo Freire
 ---------
 

@@ -4,7 +4,7 @@ output:
     keep_tex: true
     fig_caption: yes
     latex_engine: pdflatex
-    template: ~/Documents/GitHub/eei-omma-ufm/latex-programa.tex
+    template: ~/Documents/GitHub/economia-politica-instituicoes-ufm/latex-programa.tex
 geometry: margin=1in
 
 title: "Economia Política e Instituições"
