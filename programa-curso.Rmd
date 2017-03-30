@@ -1,27 +1,24 @@
 ---
+title: "Economia Política e Instituições"
+author: "Danilo Freire"
+date: "Março-Maio de 2017"
 output:
+  word_document: default
   pdf_document:
-    keep_tex: true
     fig_caption: yes
+    keep_tex: yes
     latex_engine: pdflatex
     template: ~/Documents/GitHub/economia-politica-instituicoes-ufm/latex-programa.tex
-geometry: margin=1in
-
-title: "Economia Política e Instituições"
-author: Danilo Freire
-date: "Março-Maio de 2017"
-
-email: "danilofreire@gmail.com"
-web: "danilofreire.com"
-classroom: "Online"
-classhours: "12:30-15:20"
-officehours: "A qualquer hora"
-office: "Via e-mail"
-
+email: danilofreire@gmail.com
 fontfamily: libertine
 fontsize: 12pt
-header-includes:
-   - \linespread{1.05}
+geometry: margin=1in
+header-includes: \linespread{1.05}
+office: Via e-mail
+officehours: A qualquer hora
+classroom: Online
+classhours: 12:30-15:20
+web: danilofreire.com
 ---
 
 # Descrição
