@@ -3,12 +3,11 @@ title: "Economia Política e Instituições"
 author: "Danilo Freire"
 date: "Março-Maio de 2017"
 output:
-  word_document: default
   pdf_document:
     fig_caption: yes
-    keep_tex: yes
     latex_engine: pdflatex
     template: ~/Documents/GitHub/economia-politica-instituicoes-ufm/latex-programa.tex
+  word_document: default
 email: danilofreire@gmail.com
 fontfamily: libertine
 fontsize: 12pt
@@ -118,6 +117,5 @@ Como instituições produzidos de forma privada e regulamentos econômicos priva
 
 **Leituras**:
 
-- David Skarbek - [Covenants without the Sword? Comparing Prison Self-Governance
-Globally](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/skarbek.pdf)
+- David Skarbek & Danilo Freire - [Prison Gangs](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/skarbek-freire.pdf)
 - Danilo Freire - [Beasts of Prey or Rational Animals? Private Governance in Brazil's Jogo do Bicho](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/freire.pdf)
