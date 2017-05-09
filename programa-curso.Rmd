@@ -6,7 +6,7 @@ output:
   pdf_document:
     fig_caption: yes
     latex_engine: pdflatex
-    template: ~/Documents/GitHub/economia-politica-instituicoes-ufm/latex-programa.tex
+    template: ~/Documents/GitHub/economia-politica-instituicoes-ufm/template.tex
   word_document: default
 email: danilofreire@gmail.com
 fontfamily: libertine
@@ -89,7 +89,7 @@ Relação entre a teoria do capital e a teoria institucional. O papel das instit
 
 **Leituras**:
 
-- Hernando de Soto - O Mistério do Capital (Capítulos 1-3)
+- Hernando de Soto - [The Mystery of Capital (Capítulos 1-3)](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-11-12/desoto.pdf)
 - Timur Kuran - [The Puzzle of the Middle East's Economic Underdevelopment](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-11-12/kuran-01.pdf)
 - Timur Kuran - [The Economic Impact of Islamism](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-11-12/kuran-02.pdf)
 
@@ -108,6 +108,7 @@ Como instituições produzidos de forma privada e regulamentos econômicos priva
 
 **Leituras**:
 
+- Edward Stringham - [Extending the Analysis of Spontaneous Market Order to Governance](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-15-16/sringham-00.pdf)
 - Edward Stringham - [The Extralegal Development of Securities Trading in seventeenth-century Amsterdam](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-15-16/stringham-01.pdf)
 - Edward Stringham - [The Alternative of Private Reguation: The London Stock Exchange's Alternative Investment Market as a Model](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-15-16/stringham-02.pdf)
 
