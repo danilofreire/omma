@@ -58,7 +58,8 @@ $endif$
 %\setitemize[0]{leftmargin=25pt}
 %\setenumerate[0]{leftmargin=25pt}
 
-
+\usepackage[usenames,dvipsnames]{xcolor}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.55}
 
 
 \makeatletter
@@ -83,9 +84,9 @@ $endif$
              pdfkeywords = {$if(keywords)$$keywords$$endif$},  
             pdftitle={$title$$if(subtitle)$: $subtitle$$endif$},
             colorlinks=true,
-            citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
-            urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
-            linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+            citecolor=$if(citecolor)$$citecolor$$else$darkblue$endif$,
+            urlcolor=$if(urlcolor)$$urlcolor$$else$darkblue$endif$,
+            linkcolor=$if(linkcolor)$$linkcolor$$else$Mahogany$endif$,
             pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
 

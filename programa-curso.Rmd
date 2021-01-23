@@ -1,12 +1,12 @@
 ---
 title: "Economia Política e Instituições"
 author: "Danilo Freire"
-date: "Março-Maio de 2017"
+date: "Fevereiro de 2021"
 output:
   pdf_document:
     fig_caption: yes
     latex_engine: pdflatex
-    template: ~/Documents/GitHub/economia-politica-instituicoes-ufm/template.tex
+    template: template.tex
   word_document: default
 email: danilofreire@gmail.com
 fontfamily: libertine
@@ -17,28 +17,63 @@ office: Via e-mail
 officehours: A qualquer hora
 classroom: Online
 classhours: 12:30-15:20
-web: danilofreire.com
+web: danilofreire.github.io
 ---
 
 # Descrição
 
-A matéria almeja um aprofundamento sobre o conceito de instituições, o papel que elas cumprem na coordenação social e o sentido em que conduzem os incentivos da conduta econômica. O curso terá 18 sessões, sempre às quartas-feira, exceto as duas primeiras sessões (quinta-feira). Lembrando que haverá um recesso durante a Semana Santa (10 a 14/04).
+A disciplina traz uma análise detalhada dos conceitos de instituições e de
+governança em ciência política e economia. Examinaremos como as instituições
+influenciam a organização social e impactam os incentivos para produção e
+comércio. Veremos também uma série de exemplos históricos que ilustram não
+apenas as características principais das instituições formais presentes em
+democracias e autocracias, mas também como mecanismos extralegais promovem
+governança em áreas onde onde o estado não pode ou não deseja atuar. 
+
+O curso terá 18 sessões divididas em 9 dias. As aulas acontecerão nos dias 4,
+9, 10, 11, 16, 18, 23, 24 e 25 de fevereiro, sempre às XXXX horas. As aulas
+terão duração de 80 minutos.
+
+As informações referentes à disciplina estão disponíveis tanto na plataforma da
+OMMA quanto em
+<https://github.com/danilofreire/economia-politica-instituicoes-ufm>. Todos os
+textos, o cronograma do curso e os slides estão inclusos no repositório, logo,
+fiquem à vontade para baixar o conteúdo completo da matéria quando quiserem.
+Para fazer o download, por favor, cliquem em **Code** e depois em **Download
+ZIP**. O arquivo é grande, então sugiro baixá-lo no computador e não no
+celular. Caso tenham quaisquer problemas, é só entrar em contato comigo via
+email em [danilofreire@gmail.com](mailto:danilofreire@gmail.com).
+
+Minha meta neste curso é que os alunos aproveitem ao máximo o conteúdo das
+aulas e se sintam motivados e incluídos em todas as discussões. Assim, caso
+você tem alguma necessidade especial, não hesite em entrar em contato comigo e
+farei todas as adaptações sugeridas para que você siga as aulas como achar
+melhor. Além disso, dado que os alunos possuem diferentes horários de trabalho,
+também me disponho a ter meus plantões de dúvidas em qualquer período ou dia da
+semana. Apenas peço que, por gentileza, você me mande um email para que
+possamos combinar nossa conversa virtual com alguns dias de antecedência.
+
+Os alunos serão avaliados por meio de um trabalho escrito com cerca de 20
+páginas a ser entregue na data final do cronograma. O tema é de livre escolha
+dentro do contexto da análise de instituições e governança. Contudo, é
+necessário que os alunos incluam ao menos *quatro* textos que discutimos em
+alguma das aulas em sua bibliografia. A ideia é que as leituras sirvam de base
+para a discussão do trabalho final e que os alunos adotem uma perspectiva
+comparada dos textos, mostrando como eles se complementam ou divergem.
 
 # Objetivos
 
-- Entender o que são instituições e como normas permitem a coordenação de ações individuais
+- Entender o que são instituições e como normas sociais permitem a coordenação de ações individuais
 - Trabalhar com facilidade os conceitos políticos e econômicos necessários para o estudo do papel das instituições
 - Adquirir uma visão de conjunto desta área da economia política
-- Conhecer e aplicar os conceitos de normas, incentivos e mudanças institucionais que fundamentam a relação entre mercado e estado
+- Conhecer e aplicar os conceitos de normas, incentivos e mudanças institucionais que fundamentam as relações entre mercado e estado
 - Familiarizar-se com a história intelectual das instituições político-econômicas e como a área se relaciona com outras disciplinas
-
-\newpage
 
 # Cronograma e Bibliografia
 
 Todas as referências de leitura estão disponíveis no [repositório do curso no GitHub](https://github.com/danilofreire/economia-politica-instituicoes-ufm). Recomenda-se que os alunos leiam os textos antes das sessões e que tragam pontos a serem discutidos com o tutor e demais colegas. A participação em classe é fundamental para que as aulas sejam dinâmicas e interessantes.
 
-## Sessões 1 e 2: A Ordem Institucional (23/03)
+## Sessões 1 e 2: A Ordem Institucional (04/02)
 
 Programa do curso. Introdução ao conceito de instituição dentro da economia política. Considerações sobre as origens evolutivas das instituições como resultado de ações humanas propositivas, mas não do desígnio humano. Apanhado da história intelectual de instituições dentro do conceito de ordem.
 
@@ -47,7 +82,7 @@ Programa do curso. Introdução ao conceito de instituição dentro da economia 
 - Norman Barry - [The Tradition of Spontaneous Order](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-01-02/barry.pdf)
 - Geoffrey M. Hodgson - [What Are Institutions?](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-01-02/hodgson.pdf)
 
-## Sessões 3 e 4: Diversidade Institucional I: Policentrismo (29/03)
+## Sessões 3 e 4: Diversidade Institucional I: Policentrismo (09/02)
 
 Considerações acerca dos modelos de administração pública. Introdução aos conceitos de mono e policentrismo institucional. Discussão sobre vantagens e desafios de arranjos policêntricos. Federalismo e multiplicidade de jurisdições.
 
@@ -57,7 +92,7 @@ Considerações acerca dos modelos de administração pública. Introdução aos
 - Vincent Ostrom - [Polycentricity: The Structural Basis of Self-Governing Systems](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-03-04/vincent-ostrom-03.pdf)
 - Paul Dragos Aligica - [Institutional Diversity and Political Economy: The Ostroms and Beyond. Capítulo 2: Institucionalism and Polycentricity](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-03-04/aligica.pdf)
 
-## Sessões 5 e 6: Diversidade Institucional II: IAD Framework (05/04)
+## Sessões 5 e 6: Diversidade Institucional II: IAD Framework (10/02)
 
 Considerações sobre o trabalho de Elinor Ostrom. Introdução ao Framework de Análise e Desenvolvimento Institutional. Aplicações teóricas e práticas.
 
@@ -66,7 +101,7 @@ Considerações sobre o trabalho de Elinor Ostrom. Introdução ao Framework de 
 - Elinor Ostrom - [The Three Worlds of Action](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-05-06/elinor-ostrom-01.pdf)
 - Elinor Ostrom - [An Agenda for the Study of Institutions](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-05-06/elinor-ostrom-02.pdf)
 
-## Sessões 7 e 8: Instituições no Contractarianismo (19/04)
+## Sessões 7 e 8: Instituições no Contractarianismo (11/02)
 
 Como uma teoria institucional pode derivar autoridade e legitimidade a partir do consentimento dos governados. A forma e o conteúdo do consentimento e a ideia de contrato e de acordos mutuamente benéficos. A origem da força normativa e da possibilidade de reconhecimento e execução de instituições. A possibilidade de se modelar o comportamento econômico. A aplicação de modelos econômicos na interpretação institucional.
 
@@ -74,7 +109,7 @@ Como uma teoria institucional pode derivar autoridade e legitimidade a partir do
 
 - James Buchanan & Geoffrey Brennan - [The Reason of Rules: Constitutional Political Economy. Capítulos 2 a 5](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-07-08/buchanan-brennan.pdf)
 
-## Sessões 9 e 10: Instituições no Ocidente, Jusnaturalismo e Utilitarismo (26/04)
+## Sessões 9 e 10: Instituições no Ocidente, Jusnaturalismo e Utilitarismo (16/02)
 
 A possibilidade de um sistema institucional dedutivo. A capacidade de derivar ordem normativa da razão humana e do princípio da utilidade. O direito positivo como construção verbal a partir da convergência de interesses humanos. Uma breve história das origens concretas do estabelecimento institucional no ocidente.
 
@@ -83,7 +118,7 @@ A possibilidade de um sistema institucional dedutivo. A capacidade de derivar or
 - Harold Berman - [Law and Revolution (extratos)](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-09-10/berman.pdf)
 - David Gauthier - [Morals by Agreement, Capítulo 1](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-09-10/gauthier.pdf)
 
-## Sessões 11 e 12: Instituições no Terceiro Mundo e o Caso Islâmico (03/05)
+## Sessões 11 e 12: Instituições no Terceiro Mundo e o Caso Islâmico (18/02)
 
 Relação entre a teoria do capital e a teoria institucional. O papel das instituições no desenvolvimento econômico histórico. Como ocorre a destruição criadora em sociedades em desenvolvimento e de que maneira a coordenação econômica possibilitada pelas instituições fortalece ou previne o crescimento econômico. Estudo da emergência de instituições econômicas no mundo islâmico e seus efeitos no desenvolvimento regional.
 
@@ -93,7 +128,7 @@ Relação entre a teoria do capital e a teoria institucional. O papel das instit
 - Timur Kuran - [The Puzzle of the Middle East's Economic Underdevelopment](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-11-12/kuran-01.pdf)
 - Timur Kuran - [The Economic Impact of Islamism](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-11-12/kuran-02.pdf)
 
-## Sessões 13 e 14: O Desenho das Instituições (10/05)
+## Sessões 13 e 14: O Desenho das Instituições (23/02)
 
 Bens públicos e redistribuição econômica. A motivação de governantes e governantes na construção institucional. Agregado e distribuição de preferências. A possibilidade de se planejar coordenação econômica a partir de um desenho institucional. A base institucional das regulações econômicas. Comparação entre regulações privadas e econômicas. Aplicação da racionalidade econômica na aplicado de políticas públicas.
 
@@ -102,7 +137,7 @@ Bens públicos e redistribuição econômica. A motivação de governantes e gov
 - Anthony Ogus - [Economics and the Design of Regulatory Law (Capítulo 5)](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-13-14/ogus.pdf)
 - Mancur Olson - [Dictatorship, Democracy, and Development](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-13-14/olson.pdf)
 
-## Sessões 15 e 16: Instituições Além do Estado I: Comércio (17/05)
+## Sessões 15 e 16: Instituições Além do Estado I: Comércio (24/02)
 
 Como instituições produzidos de forma privada e regulamentos econômicos privados podem ser exequíveis e eficazes. Casos históricos de instituições de governança privada demonstrando sua emergência e explicando seu funcionamento.
 
@@ -112,11 +147,11 @@ Como instituições produzidos de forma privada e regulamentos econômicos priva
 - Edward Stringham - [The Extralegal Development of Securities Trading in seventeenth-century Amsterdam](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-15-16/stringham-01.pdf)
 - Edward Stringham - [The Alternative of Private Regulation: The London Stock Exchange's Alternative Investment Market as a Model](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-15-16/stringham-02.pdf)
 
-## Sessões 17 e 18: Instituições Além do Estado II: Organizações Ilegais (24/05)
+## Sessões 17 e 18: Instituições Além do Estado II: Organizações Ilegais (25/02)
 
 Como instituições produzidos de forma privada e regulamentos econômicos privados podem ser exequíveis e eficazes. Casos históricos de instituições de governança privada demonstrando sua emergência e explicando seu funcionamento.
 
 **Leituras**:
 
 - David Skarbek & Danilo Freire - [Prison Gangs](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/skarbek-freire.pdf)
-- Danilo Freire - [Beasts of Prey or Rational Animals? Private Governance in Brazil's Jogo do Bicho](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/freire.pdf)
+- Danilo Freire - [Beasts of Prey or Rational Animals? Private Governance in Brazil's _Jogo do Bicho_](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/freire.pdf)
