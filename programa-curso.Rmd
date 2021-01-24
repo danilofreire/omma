@@ -53,14 +53,6 @@ também me disponho a ter meus plantões de dúvidas em qualquer período ou dia
 semana. Apenas peço que, por gentileza, você me mande um email para que
 possamos combinar nossa conversa virtual com alguns dias de antecedência.
 
-Os alunos serão avaliados por meio de um trabalho escrito com cerca de 20
-páginas a ser entregue na data final do cronograma. O tema é de livre escolha
-dentro do contexto da análise de instituições e governança. Contudo, é
-necessário que os alunos incluam ao menos *quatro* textos que discutimos em
-alguma das aulas em sua bibliografia. A ideia é que as leituras sirvam de base
-para a discussão do trabalho final e que os alunos adotem uma perspectiva
-comparada dos textos, mostrando como eles se complementam ou divergem.
-
 # Objetivos
 
 - Entender o que são instituições e como normas sociais permitem a coordenação de ações individuais
@@ -68,6 +60,32 @@ comparada dos textos, mostrando como eles se complementam ou divergem.
 - Adquirir uma visão de conjunto desta área da economia política
 - Conhecer e aplicar os conceitos de normas, incentivos e mudanças institucionais que fundamentam as relações entre mercado e estado
 - Familiarizar-se com a história intelectual das instituições político-econômicas e como a área se relaciona com outras disciplinas
+
+# Avaliação
+
+A avaliação dos alunos se dará por duas métricas. A primeira é a participação
+ativa nas aulas, que contará 20% da nota final dos estudantes. Assim, é
+necessário que os alunos venham com os materiais lidos e com perguntas para
+serem discutidas junto com o tutor e os colegas. Os alunos que faltarem em mais
+de três aulas sem justificativa serão reprovados. 
+
+Contudo, a maior porcentagem das notas (80%) virá de um trabalho escrito com
+cerca de 20 páginas a ser entregue duas semanas após o final do cronograma. O
+tema é de livre escolha dentro do contexto da análise de instituições e
+governança. É necessário que os alunos incluam ao menos *quatro* textos que
+discutimos em alguma das aulas em sua bibliografia. A ideia é que as leituras
+sirvam de base para a discussão do trabalho final e que os alunos adotem uma
+perspectiva comparada dos textos, mostrando como eles se complementam ou
+divergem.
+
+Os alunos deverão trazer um resumo estendido do trabalho, com cerca de 5
+páginas, no dia 18 de fevereiro. O resumo deve conter o tema do projeto de
+pesquisa e uma breve introdução com o referencial teórico e metodológico que o
+aluno pretende implementar no artigo. Os resumos serão distribuídos em sala
+para um outro colega, o qual terá até o dia 24 de fevereiro para enviar breves
+comentários sobre o projeto do autor. A sessão deste dia será toda dedicada à
+discussão dos trabalhos finais, onde os estudantes poderão tirar dúvidas e
+receber sugestões dos demais colegas de curso.
 
 # Cronograma e Bibliografia
 
@@ -120,7 +138,9 @@ A possibilidade de um sistema institucional dedutivo. A capacidade de derivar or
 
 ## Sessões 11 e 12: Instituições no Terceiro Mundo e o Caso Islâmico (18/02)
 
-Relação entre a teoria do capital e a teoria institucional. O papel das instituições no desenvolvimento econômico histórico. Como ocorre a destruição criadora em sociedades em desenvolvimento e de que maneira a coordenação econômica possibilitada pelas instituições fortalece ou previne o crescimento econômico. Estudo da emergência de instituições econômicas no mundo islâmico e seus efeitos no desenvolvimento regional.
+Relação entre a teoria do capital e a teoria institucional. O papel das instituições no desenvolvimento econômico histórico. Como ocorre a destruição criadora em sociedades em desenvolvimento e de que maneira a coordenação econômica possibilitada pelas instituições fortalece ou previne o crescimento econômico. Estudo da emergência de instituições econômicas no mundo islâmico e seus efeitos no desenvolvimento regional. 
+
+**Lembrete**: Entregar um resumo ampliado, com cerca de 5 páginas, com uma breve introdução e as referências teóricas e metodológicas que embasarão o trabalho final.
 
 **Leituras**:
 
@@ -137,17 +157,14 @@ Bens públicos e redistribuição econômica. A motivação de governantes e gov
 - Anthony Ogus - [Economics and the Design of Regulatory Law (Capítulo 5)](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-13-14/ogus.pdf)
 - Mancur Olson - [Dictatorship, Democracy, and Development](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-13-14/olson.pdf)
 
-## Sessões 15 e 16: Instituições Além do Estado I: Comércio (24/02)
+## Sessões 15 e 16: Discussão dos Trabalhos Finais (24/02)
 
-Como instituições produzidos de forma privada e regulamentos econômicos privados podem ser exequíveis e eficazes. Casos históricos de instituições de governança privada demonstrando sua emergência e explicando seu funcionamento.
+A sessão será dedicada à discussão dos trabalhos finais. Não há leituras obrigatórias para esta data.
 
-**Leituras**:
+**Lembrete**: Trazer comentários acerca dos resumos dos colegas.
 
-- Edward Stringham - [Extending the Analysis of Spontaneous Market Order to Governance](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-15-16/stringham-00.pdf)
-- Edward Stringham - [The Extralegal Development of Securities Trading in seventeenth-century Amsterdam](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-15-16/stringham-01.pdf)
-- Edward Stringham - [The Alternative of Private Regulation: The London Stock Exchange's Alternative Investment Market as a Model](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-15-16/stringham-02.pdf)
 
-## Sessões 17 e 18: Instituições Além do Estado II: Organizações Ilegais (25/02)
+## Sessões 17 e 18: Instituições Além do Estado: Organizações Ilegais (25/02)
 
 Como instituições produzidos de forma privada e regulamentos econômicos privados podem ser exequíveis e eficazes. Casos históricos de instituições de governança privada demonstrando sua emergência e explicando seu funcionamento.
 
