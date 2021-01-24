@@ -161,7 +161,7 @@ Bens públicos e redistribuição econômica. A motivação de governantes e gov
 
 A sessão será dedicada à discussão dos trabalhos finais. Não há leituras obrigatórias para esta data.
 
-**Lembrete**: Trazer comentários acerca dos resumos dos colegas.
+**Lembrete**: Trazer comentários acerca das propostas dos colegas.
 
 
 ## Sessões 17 e 18: Instituições Além do Estado: Organizações Ilegais (25/02)
@@ -171,4 +171,5 @@ Como instituições produzidos de forma privada e regulamentos econômicos priva
 **Leituras**:
 
 - David Skarbek & Danilo Freire - [Prison Gangs](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/skarbek-freire.pdf)
+- David Skarbek - [Covenants without the Sword? Comparing Prison Self-Governance Globally](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/skarbek.pdf) (recomendada)
 - Danilo Freire - [Beasts of Prey or Rational Animals? Private Governance in Brazil's _Jogo do Bicho_](https://github.com/danilofreire/economia-politica-instituicoes-ufm/blob/master/sessoes-17-18/freire.pdf)
