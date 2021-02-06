@@ -16,7 +16,7 @@ header-includes: \linespread{1.05}
 office: Via e-mail
 officehours: A qualquer hora
 classroom: Online
-classhours: 19:00-22:00
+classhours: 12:30-15:20
 web: danilofreire.github.io
 ---
 
@@ -31,8 +31,8 @@ democracias e autocracias, mas também como mecanismos extralegais promovem
 governança em áreas onde onde o estado não pode ou não deseja atuar. 
 
 O curso terá 18 sessões divididas em 9 dias. As aulas acontecerão nos dias 4,
-9, 10, 11, 16, 18, 23, 24 e 25 de fevereiro, sempre das 19:00 às 22:00 horas.
-As sessões terão duração de 80 minutos e teremos duas delas por aula.
+9, 10, 11, 16, 18, 23, 24 e 25 de fevereiro, sempre às XXXX horas. As aulas
+terão duração de 80 minutos.
 
 As informações referentes à disciplina estão disponíveis tanto na plataforma da
 OMMA quanto em
