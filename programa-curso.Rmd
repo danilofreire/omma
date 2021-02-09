@@ -106,7 +106,7 @@ Considerações acerca dos modelos de administração pública. Introdução aos
 
 **Leituras**:
 
-- Vincent Ostrom - [The Intellectual Crisis in American Public Administration. Capítulo 1: The Crisis of Confidence](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-03-04/vicent-ostrom-01.pdf) e [Capítulo 2: The Intellectual Mainstream in American Public Administration](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-03-04/vincent-ostrom-02.pdf)
+- Vincent Ostrom - [The Intellectual Crisis in American Public Administration. Capítulo 1: The Crisis of Confidence](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-03-04/vincent-ostrom-01.pdf) e [Capítulo 2: The Intellectual Mainstream in American Public Administration](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-03-04/vincent-ostrom-02.pdf)
 - Vincent Ostrom - [Polycentricity: The Structural Basis of Self-Governing Systems](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-03-04/vincent-ostrom-03.pdf)
 - Paul Dragos Aligica - [Institutional Diversity and Political Economy: The Ostroms and Beyond. Capítulo 2: Institucionalism and Polycentricity](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-03-04/aligica.pdf)
 
