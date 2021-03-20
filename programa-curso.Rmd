@@ -131,34 +131,36 @@ Análise e Desenvolvimento Institutional. Aplicações teóricas e práticas.
 
 ## Sessões 7 e 8: Instituições no Contratualismo (11/02)
 
-Como uma teoria institucional pode derivar autoridade e legitimidade a partir do consentimento dos governados. A forma e o conteúdo do consentimento e a ideia de contrato e de acordos mutuamente benéficos. A origem da força normativa e da possibilidade de reconhecimento e execução de instituições. A possibilidade de se modelar o comportamento econômico. A aplicação de modelos econômicos na interpretação institucional.
+Como uma teoria institucional pode derivar autoridade e legitimidade a partir
+do consentimento dos governados. A forma e o conteúdo do consentimento e a
+ideia de contrato e de acordos mutuamente benéficos. A origem da força
+normativa e da possibilidade de reconhecimento e execução de instituições. A
+ideia de justiça derivada do contrato social. Véu de ignorância e suas
+consequências normativas.
 
 **Leituras**:
 
 - Thomas Hobbes - [Leviathan. Capítulos 13, 14, 17, 18, 21 e 29](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-07-08/hobbes.pdf).
-- John Rawls - [A Theory of Justice. Capítulos 2 e 3](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-07-08/rawls.pdf).
+- John Rawls - [A Theory of Justice. Trechos selecionados](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-07-08/rawls.pdf).
 
-## Sessões 9 e 10: O Desenho das Instituições (23/02)
+## Sessões 9 e 10: Violência, Democracias e Ditaduras (23/02)
 
-Bens públicos e redistribuição econômica. A motivação de governantes e
-governantes na construção institucional. Agregado e distribuição de
-preferências. A possibilidade de se planejar coordenação econômica a partir de
-um desenho institucional. A base institucional das regulações econômicas.
-Comparação entre regulações privadas e econômicas. Aplicação da racionalidade
-econômica na aplicado de políticas públicas.
+Uso da força e ordem social. Bens públicos e redistribuição econômica. A
+motivação de governantes e governados na construção institucional. A
+possibilidade de se planejar coordenação econômica a partir de um desenho
+institucional. Efeitos de longo prazo dos regimes políticos. 
 
 **Leituras**:
 
 - Mancur Olson - [Dictatorship, Democracy, and Development](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-09-10/olson.pdf).
-- Daron Acemoglu, Simon Johnson e James Robinson - [The Colonial Origins of Comparative Development: An Empirical Investigation](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-09-10/acemoglu.pdf).
+- Douglass North, John Wallis, Barry Weingast - [Violence and the Rise of Open-Access Orders](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-09-10/north.pdf).
 
-## Sessões 11 e 12: Instituições no Ocidente, Jusnaturalismo e Utilitarismo (16/02)
+## Sessões 11 e 12: Instituições no Ocidente (16/02)
 
-A possibilidade de um sistema institucional dedutivo. A capacidade de derivar
-ordem normativa da razão humana e do princípio da utilidade. O direito positivo
-como construção verbal a partir da convergência de interesses humanos. Uma
-breve história das origens concretas do estabelecimento institucional no
-ocidente.
+Uma breve história das origens concretas do estabelecimento institucional no
+Ocidente. O papel da Igreja Católica no direito e na ideia de soberania
+estatal. Comércio atlântico e crescimento econômico. Impactos de longo prazo no
+desenvolvimento político e social do Ocidente.
 
 **Lembrete**: Entregar um resumo ampliado, com cerca de 5 páginas, com uma
 breve introdução e as referências teóricas e metodológicas que embasarão o
@@ -167,7 +169,7 @@ trabalho final.
 **Leituras**:
 
 - Harold Berman - [Law and Revolution (extratos)](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-11-12/berman.pdf).
-- Paul Milgron, Douglass North e Barry Weingast - [The Role of Institutions in the Revival of Trade: The Law Merchant, Private Judges, and the Champagne Fairs](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-11-12/milgron.pdf).
+- Daron Acemoglu, Simon Johnson e James Robinson - [The Rise of Europe: Atlantic Trade, Institutional Change, and Economic Growth](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-11-12/acemoglu.pdf).
 
 ## Sessões 13 e 14: Instituições no Terceiro Mundo e o Caso Islâmico (18/02)
 
@@ -193,12 +195,10 @@ obrigatórias para esta data.
 
 ## Sessões 17 e 18: Instituições Além do Estado: Organizações Ilegais (25/02)
 
-Como instituições produzidos de forma privada e regulamentos econômicos
-privados podem ser exequíveis e eficazes. Casos históricos de instituições de
-governança privada demonstrando sua emergência e explicando seu funcionamento.
+Como instituições produzidos de forma privada e regulamentos econômicos privados podem ser exequíveis e eficazes. Casos históricos de instituições de governança privada demonstrando sua emergência e explicando seu funcionamento.
 
 **Leituras**:
 
-- David Skarbek & Danilo Freire - [Prison Gangs](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-17-18/skarbek-freire.pdf).
-- David Skarbek - [Covenants without the Sword? Comparing Prison Self-Governance Globally](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-17-18/skarbek.pdf) (recomendada).
+- David Skarbek e Danilo Freire - [Prison Gangs](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-17-18/skarbek-freire.pdf).
+- David Skarbek - [Covenants without the Sword? Comparing Prison Self-Governance Globally](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-17-18/skarbek.pdf) (Leitura recomendada).
 - Danilo Freire - [Beasts of Prey or Rational Animals? Private Governance in Brazil's _Jogo do Bicho_](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-17-18/freire.pdf).
