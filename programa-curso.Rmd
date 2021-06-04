@@ -1,7 +1,7 @@
 ---
 title: "Economia Política e Instituições"
 author: "Danilo Freire"
-date: "Fevereiro de 2021"
+date: "Junho e Julho de 2021"
 output:
   pdf_document:
     fig_caption: yes
@@ -94,7 +94,7 @@ Recomenda-se que os alunos leiam os textos antes das sessões e que tragam
 pontos a serem discutidos com o tutor e demais colegas. A participação em
 classe é fundamental para que as aulas sejam dinâmicas e interessantes.
 
-## Sessões 1 e 2: A Ordem Institucional (04/02)
+## Sessões 1 e 2: A Ordem Institucional (23/06)
 
 Programa do curso. Introdução ao conceito de instituição dentro da economia
 política. Considerações sobre as origens evolutivas das instituições como
@@ -106,7 +106,7 @@ da história intelectual de instituições dentro do conceito de ordem.
 - Norman Barry - [The Tradition of Spontaneous Order](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-01-02/barry.pdf).
 - Geoffrey M. Hodgson - [What Are Institutions?](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-01-02/hodgson.pdf).
 
-## Sessões 3 e 4: Diversidade Institucional I: Policentrismo (09/02)
+## Sessões 3 e 4: Diversidade Institucional I: Policentrismo (28/06)
 
 Considerações acerca dos modelos de administração pública. Introdução aos
 conceitos de mono e policentrismo institucional. Discussão sobre vantagens e
@@ -119,7 +119,7 @@ jurisdições.
 - Paul Dragos Aligica - [Institutional Diversity and Political Economy: The Ostroms and Beyond. Capítulo 2: Institucionalism and Polycentricity](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-03-04/aligica.pdf).
 - Vincent Ostrom - [Polycentricity: The Structural Basis of Self-Governing Systems](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-03-04/vincent-ostrom-03.pdf).
 
-## Sessões 5 e 6: Diversidade Institucional II: IAD Framework (10/02)
+## Sessões 5 e 6: Diversidade Institucional II: IAD Framework (30/06)
 
 Considerações sobre o trabalho de Elinor Ostrom. Introdução ao Framework de
 Análise e Desenvolvimento Institutional. Aplicações teóricas e práticas.
@@ -129,7 +129,7 @@ Análise e Desenvolvimento Institutional. Aplicações teóricas e práticas.
 - Elinor Ostrom - [The Three Worlds of Action](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-05-06/elinor-ostrom-01.pdf).
 - Elinor Ostrom - [An Agenda for the Study of Institutions](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-05-06/elinor-ostrom-02.pdf).
 
-## Sessões 7 e 8: Instituições no Contratualismo (11/02)
+## Sessões 7 e 8: Instituições no Contratualismo (05/07)
 
 Como uma teoria institucional pode derivar autoridade e legitimidade a partir
 do consentimento dos governados. A forma e o conteúdo do consentimento e a
@@ -143,7 +143,7 @@ consequências normativas.
 - Thomas Hobbes - [Leviathan. Capítulos 13, 14, 17, 18, 21 e 29](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-07-08/hobbes.pdf).
 - John Rawls - [A Theory of Justice. Trechos selecionados](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-07-08/rawls.pdf).
 
-## Sessões 9 e 10: Violência, Democracias e Ditaduras (23/02)
+## Sessões 9 e 10: Violência, Democracias e Ditaduras (07/07)
 
 Uso da força e ordem social. Bens públicos e redistribuição econômica. A
 motivação de governantes e governados na construção institucional. A
@@ -155,7 +155,7 @@ institucional. Efeitos de longo prazo dos regimes políticos.
 - Mancur Olson - [Dictatorship, Democracy, and Development](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-09-10/olson.pdf).
 - Douglass North, John Wallis, Barry Weingast - [Violence and the Rise of Open-Access Orders](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-09-10/north.pdf).
 
-## Sessões 11 e 12: Instituições no Ocidente (16/02)
+## Sessões 11 e 12: Instituições no Ocidente (12/07)
 
 Uma breve história das origens concretas do estabelecimento institucional no
 Ocidente. O papel da Igreja Católica no direito e na ideia de soberania
@@ -171,7 +171,7 @@ trabalho final.
 - Harold Berman - [Law and Revolution (extratos)](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-11-12/berman.pdf).
 - Daron Acemoglu, Simon Johnson e James Robinson - [The Rise of Europe: Atlantic Trade, Institutional Change, and Economic Growth](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-11-12/acemoglu.pdf).
 
-## Sessões 13 e 14: Instituições no Terceiro Mundo e o Caso Islâmico (18/02)
+## Sessões 13 e 14: Instituições no Terceiro Mundo e o Caso Islâmico (14/07)
 
 Relação entre a teoria do capital e a teoria institucional. O papel das
 instituições no desenvolvimento econômico histórico. Como ocorre a destruição
@@ -186,14 +186,14 @@ seus efeitos no desenvolvimento regional.
 - Timur Kuran - [The Puzzle of the Middle East’s Economic Underdevelopment](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-13-14/kuran-01.pdf). 
 - Timur Kuran - [The Economic Impact of Islamism](https://github.com/danilofreire/economia-politica-instituicoes-omma/blob/master/sessoes-13-14/kuran-02.pdf).
 
-## Sessões 15 e 16: Discussão dos Trabalhos Finais (24/02)
+## Sessões 15 e 16: Discussão dos Trabalhos Finais (19/07)
 
 A sessão será dedicada à discussão dos trabalhos finais. Não há leituras
 obrigatórias para esta data.
 
 **Lembrete**: Trazer comentários acerca das propostas dos colegas.
 
-## Sessões 17 e 18: Instituições Além do Estado: Organizações Ilegais (25/02)
+## Sessões 17 e 18: Instituições Além do Estado: Organizações Ilegais (21/07)
 
 Como instituições produzidos de forma privada e regulamentos econômicos privados podem ser exequíveis e eficazes. Casos históricos de instituições de governança privada demonstrando sua emergência e explicando seu funcionamento.
 
