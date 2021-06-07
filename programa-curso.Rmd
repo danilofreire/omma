@@ -17,7 +17,7 @@ office: Via e-mail
 officehours: A qualquer hora
 classroom: Online
 classhours: 19:00-22:00
-web: danilofreire.github.io
+web: github.com/danilofreire/omma
 ---
 
 # Descrição
@@ -30,19 +30,18 @@ apenas as características principais das instituições formais presentes em
 democracias e autocracias, mas também como mecanismos extralegais promovem
 governança em áreas onde onde o estado não pode ou não deseja atuar. 
 
-O curso terá 18 sessões divididas em 9 dias. As aulas acontecerão nos dias 4,
-9, 10, 11, 16, 18, 23, 24 e 25 de fevereiro, sempre das 19:00 às 22:00 horas.
-As aulas terão duração de 80 minutos.
+O curso terá 18 sessões divididas em 9 dias. As aulas acontecerão nos dias 28 e
+30 de junho e nos dias 05, 07, 12, 14, 19 e 21 de julho, sempre das 19:00 às
+22:00 horas. As aulas terão duração de 80 minutos.
 
 As informações referentes à disciplina estão disponíveis tanto na plataforma da
-OMMA quanto em
-<https://github.com/danilofreire/economia-politica-instituicoes-omma>. Todos os
-textos, o cronograma do curso e os slides estão inclusos no repositório, logo,
-fiquem à vontade para baixar o conteúdo completo da matéria quando quiserem.
-Para fazer o download, por favor, cliquem em **Code** e depois em **Download
-ZIP**. O arquivo é grande, então sugiro baixá-lo no computador e não no
-celular. Caso tenham quaisquer problemas, é só entrar em contato comigo via
-email em [danilofreire@gmail.com](mailto:danilofreire@gmail.com).
+OMMA quanto em <https://github.com/danilofreire/omma>. Todos os textos, o
+cronograma do curso e os slides estão inclusos no repositório, logo, fiquem à
+vontade para baixar o conteúdo completo da matéria quando quiserem. Para fazer
+o download, por favor, cliquem em **Code** e depois em **Download ZIP**. O
+arquivo é grande, então sugiro baixá-lo no computador e não no celular. Caso
+tenham quaisquer problemas, é só entrar em contato comigo via email em
+[danilofreire@gmail.com](mailto:danilofreire@gmail.com).
 
 Minha meta neste curso é que os alunos aproveitem ao máximo o conteúdo das
 aulas e se sintam motivados e incluídos em todas as discussões. Assim, caso
